@@ -46,9 +46,5 @@ If this work is helpful for you, please cite our paper.
   keywords={Computer architecture;Generators;Generative adversarial networks;Visualization;Training;Semantics;Optimization;Evolutionary neural architecture search;zero-shot learning;generative adversarial networks},
   doi={10.1109/TEVC.2023.3307245}}
 ```
-
-
-## References
-Parts of our codes based on:
-* [caixiay/ZeroNAS](https://github.com/caixiay/ZeroNAS)
-* [marsggbo/EAGAN](https://github.com/marsggbo/EAGAN)
+## Contact
+If you have any questions, please drop email to gchenshiming@gmail.com or shuhuangchen@hust.edu.cn.
