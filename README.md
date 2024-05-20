@@ -1,6 +1,6 @@
 # EGANS
 
-This is the total codes of paper "**EGANS: Evolutionary Generative Adversarial Network Search for Zero-Shot Learning**" accepted to *IEEE Transactions on Evolutionary Computation (TEC)*. 
+This is the codes of paper "**EGANS: Evolutionary Generative Adversarial Network Search for Zero-Shot Learning**" accepted to *IEEE Transactions on Evolutionary Computation (TEC)*. 
 
 ### Requirements
 The code implementation of **EGANS** mainly based on [PyTorch](https://pytorch.org/). All of our experiments run and test in Python 3.10.6.
